@@ -16,7 +16,7 @@ public class MovieMain {
 			System.out.println("2. View the details");
 			System.out.println("3. Delete the detail");
 			System.out.println("4. Update the details");
-			//System.out.println("5. View by ID");
+			System.out.println("5. View by ID");
 			System.out.println("6. Exit");
 			
 			int ch = sc.nextInt();
